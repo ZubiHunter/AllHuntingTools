@@ -5,7 +5,7 @@ w="\033[0m"
 
 clear
 cd
-cd AllHackingTools
+cd AllHuntingTools
 clear
 python2 ismtp.py
 echo "Please enter all your required settings to run the program."
@@ -15,4 +15,4 @@ sleep 0.1
 python2 ismtp.py $opt
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
