@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: bug, help wanted, invalid
-assignees: mishakorzik
+assignees: ZubiHunter
 
 ---
 
@@ -13,7 +13,7 @@ A clear and concise description of what the bug is.
 **To Reproduce**
 Steps to reproduce the behavior:
 1. See error
-2. Go to 'misakorzik528@gmail.com'
+2. Go to 'ZubiHunter2444@gmail.com'
 3. Send me bug 
 4. Screanshot and text
 
