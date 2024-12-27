@@ -5,7 +5,7 @@ w="\033[0m"
 
 clear
 cd
-cd AllHackingTools
+cd AllHuntingTools
 bash Logo.sh
 cd sherlock
 echo ""
@@ -18,5 +18,5 @@ clear
 python3 sherlock $NameOrUser
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
 python3 src/Timer2.py
