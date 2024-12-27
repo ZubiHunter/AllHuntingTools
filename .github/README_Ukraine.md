@@ -1,28 +1,28 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/Logo/IMG-cd518796cb4b0527368a1b9dd67a8889-V.jpg"/>
+<img width="99.9%" src="https://raw.githubusercontent.com/ZubiHunter/ZubiHunter.menu.io/master/img/Logo/IMG-cd518796cb4b0527368a1b9dd67a8889-V.jpg"/>
 
 <p align="center">
-<a href="https://github.com/mishakorzik/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.7.4-yellow?style=for-the-badge&logo="></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
+<a href="https://github.com/ZubiHunter/AllHuntingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.7.4-yellow?style=for-the-badge&logo="></a>
+<a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.8-red?style=for-the-badge&logo=python"></a>
-<a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ZubiHunter"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ZubiHunter"><img title="Autor" src="https://img.shields.io/badge/Author-ZubiHunter-blue?style=for-the-badge&logo=github"></a>
 
 <p align="center"
 
-• <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE">License</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/projects">Project</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/wiki">Wikipedia</a> •
+• <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/LICENSE">License</a> 
+• <a href="https://github.com/ZubiHunter/AllHuntingTools/issues">Issues</a> 
+• <a href="https://github.com/ZubiHunter/AllHuntingTools/projects">Project</a> 
+• <a href="https://github.com/ZubiHunter/AllHuntingTools/wiki">Wikipedia</a> •
 
 </p>
 
-> AllHackingTools: це система, призначена для автоматизації процесу завантаження та встановлення різних інструментів для тестування на проникнення.
+> AllHuntingTools: це система, призначена для автоматизації процесу завантаження та встановлення різних інструментів для тестування на проникнення.
 
 ---------------------
 
 #### Привіт, якщо ви хочете швидко налаштувати термукс, ось вам!  Більше інструментів злому одним інструментом!
 
-> Я не відповідаю за ваші дії. Скачуюче програмне забезпечення з цього репозиторію, ви згоджуєтесь з [ліцензією](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
+> Я не відповідаю за ваші дії. Скачуюче програмне забезпечення з цього репозиторію, ви згоджуєтесь з [ліцензією](https://github.com/ZubiHunter/AllHuntingTools/blob/main/LICENSE).
 
 ---------
 ## Підтримувані системи
@@ -30,7 +30,7 @@
 
  * `Termux`
 
-#### Тут на цих системах працює AllHackingTools
+#### Тут на цих системах працює AllHuntingTools
 
 ## Протестовано на:
 
@@ -46,16 +46,16 @@
  - Тепер додано нову настройку терміналу та додано нову конструкцію.
 
 **3) Новий дизайн та функції**
- - Інсталятор AllHackingTools оновлений, він отримав новий дизайн та багато можливостей для перевірки пакетів.
+ - Інсталятор AllHuntingTools оновлений, він отримав новий дизайн та багато можливостей для перевірки пакетів.
 
 **4) Новий дизайн для завантаження та оновлення**
- - Тепер додана можливість швидкого оновлення AllHackingTools та новий дизайн, завантаження та оновлення AllHackingTools.
+ - Тепер додана можливість швидкого оновлення AllHuntingTools та новий дизайн, завантаження та оновлення AllHuntingTools.
 
 **5) Виправлено більше помилок**
- - Виправлено багато помилок в системі, тепер AllHackingTools працює швидше і стабільніше
+ - Виправлено багато помилок в системі, тепер AllHuntingTools працює швидше і стабільніше
 
 **6) Перезапуск системи**
- - І коли ви запускаєте інструмент і виходите з нього, AllHackingTools автоматично перезапускається.
+ - І коли ви запускаєте інструмент і виходите з нього, AllHuntingTools автоматично перезапускається.
 
 ---
 <a id="333"></a>
@@ -64,11 +64,11 @@
 * `termux-setup-storage`
 * `apt full-upgrade`
 * `apt install git`
-* `git clone https://github.com/mishakorzik/AllHackingTools`
-* `cd AllHackingTools`
+* `git clone https://github.com/ZubiHunter/AllHuntingTools`
+* `cd AllHuntingTools`
 * `bash Install.sh`
 
-**Якщо видає помилку при запуску команди, msdc: cd AllHackingTools && bash fix.sh**
+**Якщо видає помилку при запуску команди, msdc: cd AllHuntingTools && bash fix.sh**
 
 #### Все готово! Зараз ми чекаємо, поки все завантажиться!
 
@@ -94,39 +94,39 @@ ngrok http 80
 
 <a id="222"></a>
 
-#### Запустите команду для запуска AllHackingTools: msdconsole
-## Меню AllHackingTool:
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Збір Інформации </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти експлуатации </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Обнюхування та підропка </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти веб-атак </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти взлому камер </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Вітдалений троянський RAT </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти ін’єкції SQL </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Bruteforce </a>
-     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Finder </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Атаки DDOS </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Для Фішингових Атак </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти взлому хешу </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Генератор Світових Списків </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Атаки XSS </a>
-- <a href="https://github.com/mishakorzik">Діскорд зливи</a>
-- <a href="https://github.com/mishakorzik">Телеграм інфо</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Веб-сканування </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Бездротової Атаки </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інші Інструменти </a>
-     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Безкоштовний проксі </a>
-     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Змішування </a>
+#### Запустите команду для запуска AllHuntingTools: msdconsole
+## Меню AllHuntingTool:
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Збір Інформации </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Інструменти експлуатации </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Обнюхування та підропка </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Інструменти веб-атак </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Інструменти взлому камер </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Вітдалений троянський RAT </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Інструменти ін’єкції SQL </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">SocialMedia Bruteforce </a>
+     - <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">SocialMedia Finder </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Інструменти Атаки DDOS </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Інструменти Для Фішингових Атак </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Інструменти взлому хешу </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Генератор Світових Списків </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Інструменти Атаки XSS </a>
+- <a href="https://github.com/ZubiHunter">Діскорд зливи</a>
+- <a href="https://github.com/ZubiHunter">Телеграм інфо</a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Веб-сканування </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Інструменти Бездротової Атаки </a>
+- <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Інші Інструменти </a>
+     - <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Безкоштовний проксі </a>
+     - <a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/TOOLS.md">Інструменти Змішування </a>
 
 <details id="missing-code-coverage">
   <summary>Нові Команди</summary>
 
-##### AllHackingTools додає нові команди для терміналу!  Усі команди нижче
+##### AllHuntingTools додає нові команди для терміналу!  Усі команди нижче
 
 ``` 
-msdconsole: запустити AllHackingTools
-msdServer : Перевірте сервер AllHackingTools
-msdc      : запустити AllHackingTools
+msdconsole: запустити AllHuntingTools
+msdServer : Перевірте сервер AllHuntingTools
+msdc      : запустити AllHuntingTools
 Theme     : Виберіть тему для Termux
 
 Інші команди:
@@ -203,7 +203,7 @@ figlet -f block  AND  toilet -f block
 ┌─┐┌┐┐┬ ┬┬─┐┬─┐  ┌─┐┌─┐┌┌┐┌┌┐┬─┐┌┐┐┬─┐┐─┐
 │ │ │ │─┤├─ │┬┘  │  │ ││││││││─┤││││ │└─┐
 ┘─┘ ┆ ┆ ┴┴─┘┆└┘  └─┘┘─┘┘ ┆┘ ┆┘ ┆┆└┘┆─┘──┘
->>> qiq-AllHackingTools :Install AllHackingTools
+>>> qiq-AllHuntingTools :Install AllHuntingTools
 >>> qiq-FreeProxy       :Install Free-Proxy
 >>> qiq-AdminHack       :Install AdminHack
 ```
@@ -231,7 +231,7 @@ figlet -f block  AND  toilet -f block
   developer.mishakorzhik@gmail.com
 
  Розробник:
-  misha korzhik
+  Zubi Hunter
 ```
 
 ### Помилка? Якщо інструмент виходить з ладу, виконайте такі дії: 
@@ -314,7 +314,7 @@ Build:
   Виправлено много помилок
   Додано новіё дизайн логотипів
   Додано новіё варіанти меню
-  Новий дизайн завантаження AllHackingTools
+  Новий дизайн завантаження AllHuntingTools
 
  # Спасибі за переглядання списку оновлення.
 ```
@@ -366,68 +366,68 @@ Build:
 ## Donate
 
 **Донат в низу на кнопці, Bye me a coffee**
-<a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Donate-AllHackingTools-yellow?style=for-the-badge&logo=github"></a>
+<a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Donate-AllHuntingTools-yellow?style=for-the-badge&logo=github"></a>
 
 ## Скріншоти
-#### Рекомендую переглянути скріншоти на AllHackingTools
+#### Рекомендую переглянути скріншоти на AllHuntingTools
 
 <br>
 <p align="center">
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212422.jpg"/> 
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144718.jpg"/> 
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212448.jpg"/> 
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144658.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/ZubiHunter/ZubiHunter.menu.io/master/img/AllHuntingToolsImg/img/IMG_20210630_212422.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/ZubiHunter/ZubiHunter.menu.io/master/img/AllHuntingToolsImg/img/IMG_20210720_144718.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/ZubiHunter/ZubiHunter.menu.io/master/img/AllHuntingToolsImg/img/IMG_20210630_212448.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/ZubiHunter/ZubiHunter.menu.io/master/img/AllHuntingToolsImg/img/IMG_20210720_144658.jpg"/> 
 </p>
 
 
 -----
 ## Завантажте додаткову програму для злому!
 
-#### Як видалити AllHackingTools?
+#### Як видалити AllHuntingTools?
 
 * `bash Uninstall/Uninstall.sh`
 
 ------
 
-## Запусти AllHackingTool для злому!
+## Запусти AllHuntingTool для злому!
 #### msdconsole & msdc
 
 
-#### AllHackingTool завантажує пакети та утилити та налаштовує утилити.
+#### AllHuntingTool завантажує пакети та утилити та налаштовує утилити.
 
 • [Залежності](#111) • [Встановлення](#333) • [Меню Інструментів](#222)
 
 ## Перекласти
 
-<a href="https://github.com/mishakorzik/AllHackingTools"><img title="English" src="https://img.shields.io/badge/Translate%20to-English-inactive?style=for-the-badge&logo=google-translate"></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Russia.md"><img title="Russian" src="https://img.shields.io/badge/Translate%20to-Russian-inactive?style=for-the-badge&logo=google-translate"></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Spanish.md"><img title="Spanish" src="https://img.shields.io/badge/Translate%20to-Spanish-inactive?style=for-the-badge&logo=google-translate"></a>
+<a href="https://github.com/ZubiHunter/AllHuntingTools"><img title="English" src="https://img.shields.io/badge/Translate%20to-English-inactive?style=for-the-badge&logo=google-translate"></a>
+<a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/README_Russia.md"><img title="Russian" src="https://img.shields.io/badge/Translate%20to-Russian-inactive?style=for-the-badge&logo=google-translate"></a>
+<a href="https://github.com/ZubiHunter/AllHuntingTools/blob/main/.github/README_Spanish.md"><img title="Spanish" src="https://img.shields.io/badge/Translate%20to-Spanish-inactive?style=for-the-badge&logo=google-translate"></a>
 </p>
 
 ## Знайди мене 
 [![Github](https://img.shields.io/badge/Reddit-MishaKorzhik-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Necessary_Mammoth368?utm_medium=android_app&utm_source=share)
 [![Github](https://img.shields.io/badge/TELEGRAM-MishaKorzhik-orange?style=for-the-badge&logo=telegram)](https://t.me/ubp2q)
-[![Github](https://img.shields.io/badge/GitHub-MishaKorzhik-yellow?style=for-the-badge&logo=github)](https://github.com/mishakorzik)
+[![Github](https://img.shields.io/badge/GitHub-MishaKorzhik-yellow?style=for-the-badge&logo=github)](https://github.com/ZubiHunter)
 [![Github](https://img.shields.io/badge/Twitter-MishaKorzhik-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MishaKorzhik)
 [![Github](https://img.shields.io/badge/Discord-He1Zen-blue?style=for-the-badge&logo=discord)](https://discord.gg/ce2XKTJ7h9)
 
 ## Рекомендую переглянути
 
-1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a> <br>
-2.<a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack - Easy email hacking</a> <br>
-3.<a href="https://github.com/mishakorzik/AdminHack">AdminHack - Hacking bad sites</a> <br>
-4.<a href="https://github.com/mishakorzik/Infect">Infect - Easy virus creation</a> <br>
-5.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a> <br>
-6.<a href="https://github.com/mishakorzik/IpHack">IpHack - Easy Tracking smartphones</a> <br>
-7.<a href="https://github.com/mishakorzik/UserFinder">UserFinder - Find users in social</a> <br>
-8.<a href="https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a> <br>
+1.<a href="https://github.com/ZubiHunter/qiq">qiq - Useful batch installer</a> <br>
+2.<a href="https://github.com/ZubiHunter/Gmail-Hack">Gmail-Hack - Easy email hacking</a> <br>
+3.<a href="https://github.com/ZubiHunter/AdminHack">AdminHack - Hacking bad sites</a> <br>
+4.<a href="https://github.com/ZubiHunter/Infect">Infect - Easy virus creation</a> <br>
+5.<a href="https://github.com/ZubiHunter/Free-Proxy">Free-Proxy - Lots of free proxy servers</a> <br>
+6.<a href="https://github.com/ZubiHunter/IpHack">IpHack - Easy Tracking smartphones</a> <br>
+7.<a href="https://github.com/ZubiHunter/UserFinder">UserFinder - Find users in social</a> <br>
+8.<a href="https://github.com/ZubiHunter/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a> <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=ZubiHunter&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
 
-#### Ось сховища які я рекомендую вам переглянути. ниже - люди, яким сподобалося AllHackingTools
+#### Ось сховища які я рекомендую вам переглянути. ниже - люди, яким сподобалося AllHuntingTools
 
 ## Прихильники
-[![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
-[![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
+[![Stargazers repo roster for @ZubiHunter/AllHuntingTools](https://reporoster.com/stars/ZubiHunter/AllHuntingTools)](https://github.com/ZubiHunter/AllHuntingTools/stargazers)
+[![Forkers repo roster for @ZubiHunter/AllHuntingTools](https://reporoster.com/forks/ZubiHunter/AllHuntingTools)](https://github.com/ZubiHunter/AllHuntingTools/members)
 
 
