@@ -3,7 +3,7 @@ echo '
   02) ~ Servers Setting
   03) ~ New ExtraKeys0
   04) ~ New ExtraKeys1
-  05) ~ Add AllHackingTool to startup
+  05) ~ Add AllHuntingTool to startup
   06) ~ View MySystem Process - ProcessExplorer
-  07) ~ Exit System - log out AllHackingTool
+  07) ~ Exit System - log out AllHuntingTool
   08) ~ Back To MainMenu - go to the home menu '| lolcat -p 1.4
