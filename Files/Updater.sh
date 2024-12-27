@@ -50,4 +50,4 @@ rm -rf block.flf
 cd
 cd
 cd AutoUpdateMyTools
-bash AllHackingToolupdate.sh
+bash AllHuntingToolupdate.sh
