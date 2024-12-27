@@ -1,6 +1,6 @@
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
 cd Tool
 cp msdc /data/data/com.termux/files/usr/bin/
 cp msdconsole /data/data/com.termux/files/usr/bin/
