@@ -5,7 +5,7 @@ w="\033[0m"
 
 clear
 cd
-cd AllHackingTools
+cd AllHuntingTools
 cd WhatWeb
 clear
 ./whatweb
@@ -16,4 +16,4 @@ sleep 0.1
 ./whatweb $opt
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
