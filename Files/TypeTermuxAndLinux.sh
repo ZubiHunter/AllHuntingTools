@@ -10,10 +10,10 @@ echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}All utilities will work..."
 echo ""
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
 cd termux-style
 ./uninstall
-cd && cd && cd AllHackingTools
+cd && cd && cd AllHuntingTools
 git clone https://github.com/adi1090x/termux-style
 cd termux-style
 ./install
@@ -33,7 +33,7 @@ cd qiq
 bash install.sh
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
 cd Termux-os
 bash TermuxNewKeys.sh
 cd
@@ -43,17 +43,17 @@ rm -rf Termux-os
 rm -rf qiq
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
 cp -r Termux-os /data/data/com.termux/files/home
 am broadcast --user 0 -a com.termux.app.reload_style com.termux > /dev/null
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
 cd .fonts
 chmod +x *
 cp * /data/data/com.termux/files/usr/share/figlet
 cd
-cd AllHackingTools
+cd AllHuntingTools
 cd Tool
 cp msdc /data/data/com.termux/files/usr/bin/
 cp msdconsole /data/data/com.termux/files/usr/bin/
