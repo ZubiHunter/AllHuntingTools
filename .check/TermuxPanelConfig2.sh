@@ -20,7 +20,7 @@ systemR = 'WJins82bsOx'
 
 def sys_check():
 	print(G + '[+]' + C + ' Checking for system configurations....', end='')
-	sys_url = 'https://raw.githubusercontent.com/mishakorzik/AllHackingTools/main/Castom/systemfile.txt'
+	sys_url = 'https://raw.githubusercontent.com/ZubiHunter/AllHuntingTools/main/Castom/systemfile.txt'
 	try:
 		sys_rqst = requests.get(sys_url)
 		sys_sc = sys_rqst.status_code
@@ -31,11 +31,11 @@ def sys_check():
 			if systemR == github_sys:
 				print(C + '[' + G + ' Succesfull ' + C +']' + '\n')
 				print(G + '[+] ' + C + 'System configuration checked! There are no failures')
-				os.system("cd && cd AllHackingTools && python2 Files/TermuxS2.py")
+				os.system("cd && cd AllHuntingTools && python2 Files/TermuxS2.py")
 			else:
 				print("")
 				print(R + '[-] ' + C + 'The system failed to start due to an unknown error!')
-				os.system("cd && bash AllHackingTools/.check/ConfigurationOptions.sh")
+				os.system("cd && bash AllHuntingTools/.check/ConfigurationOptions.sh")
 		else:
 			print(C + '[' + R + ' Status : {} '.format(sys_sc) + C + ']' + '\n')
 	except Exception as e:
