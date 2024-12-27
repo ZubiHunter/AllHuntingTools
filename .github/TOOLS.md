@@ -12,7 +12,7 @@
 - <a href="https://github.com/thewhiteh4t/seeker.git">Seeker</a>
 - <a href="https://github.com/s0md3v/ReconDog">ReconDog</a>
 - <a href="https://github.com/bibortone/D-Tech">D-Tech</a>
-- <a href="https://github.com/mishakorzik/IpHack">IpHack</a>
+- <a href="https://github.com/ZubiHunter/IpHack">IpHack</a>
 - <a href="https://github.com/sullo/nikto">Nikto</a>
 - <a href="https://raw.githubusercontent.com/crunchsec/ismtp/master/ismtp.py">iSMTP</a>
 
@@ -28,19 +28,19 @@
 - <a href="https://github.com/4w4k3/KnockMail.git">KnockMail</a>
 - <a href="https://github.com/thewhiteh4t/pwnedOrNot.git">PwnedOrNot</a>
 - <a href="https://github.com/Curioo/emailpyspam.git">EmailPySpam</a>
-- <a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack</a>
-- <a href="https://github.com/mishakorzik/Email-Spammer">Email-Spammer</a>
+- <a href="https://github.com/ZubiHunter/Gmail-Hack">Gmail-Hack</a>
+- <a href="https://github.com/ZubiHunter/Email-Spammer">Email-Spammer</a>
 
 ## Web Attack Tools
-- <a href="https://github.com/mishakorzik/AdminHack">AdminHack</a>
+- <a href="https://github.com/ZubiHunter/AdminHack">AdminHack</a>
 - <a href="https://github.com/m4ll0k/takeover.git">TakeOver</a>
 - <a href="https://github.com/UltimateHackers/Blazy">Blazy</a>
 - <a href="https://github.com/sqlmapproject/sqlmap.git">SqlMap</a>
 - <a href="https://github.com/websploit/websploit.git">WebSploit</a>
 - <a href="https://github.com/LOoLzeC/SH33LL">SH33LL</a>
 - <a href="https://github.com/s0md3v/sqlmate">SqlMate</a>
-- <a href="https://github.com/mishakorzik/py-ddoser">PyDDoser</a>
-- <a href="https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos</a>
+- <a href="https://github.com/ZubiHunter/py-ddoser">PyDDoser</a>
+- <a href="https://github.com/ZubiHunter/Ultra-DDos">Ultra-DDos</a>
 - <a href="https://github.com/urbanadventurer/WhatWeb">WhatWeb</a>
 - <a href="https://github.com/xmendez/wfuzz">Wfuzz</a>
 
@@ -56,12 +56,12 @@
 ## SQL Injection Tools
 - <a href="https://github.com/UndeadSec/Debinject.git">Debinject</a>
 - <a href="https://github.com/Terror696/Vitus2.0">Vitus2.0</a>
-- <a href="https://github.com/mishakorzik/Infect">Infect</a>
+- <a href="https://github.com/ZubiHunter/Infect">Infect</a>
 
 ## SocialMedia Hacking
 - <a href="https://github.com/IAmBlackHacker/Facebook-BruteForce">Facebook-BruteForce</a>
     - <a href="https://github.com/sherlock-project/sherlock.git">Sherlock</a>
-    - <a href="https://github.com/mishakorzik/UserFinder">UserFinder</a>
+    - <a href="https://github.com/ZubiHunter/UserFinder">UserFinder</a>
 
 ## SMS spaming tools
 - <a href="https://github.com/3UMOBKA/SMS-Bomber-300-Free">SMS-Bomber-300-Free</a>
@@ -69,7 +69,7 @@
 - <a href="https://github.com/HACK3RY2J/Anon-SMS.git">Anon-SMS</a>
 - <a href="https://github.com/FSystem88/spymer">Spymer</a>
 - <a href="https://github.com/TheSpeedX/TBomb.git">TBomb</a>
-- <a href="https://github.com/mishakorzik/anonymousSMS">anonymousSMS</a>
+- <a href="https://github.com/ZubiHunter/anonymousSMS">anonymousSMS</a>
 
 ## Vulnerability Analysis
 - <a href="https://github.com/floriankunushevci/rang3r">Rang3r</a>
@@ -83,7 +83,7 @@
 - <a href="https://github.com/htr-tech/zphisher.git">Zphisher</a>
 - <a href="https://github.com/AbirHasan2005/ShellPhish">ShellPhish</a>
 - <a href="https://github.com/hangetzzu/saycheese">Saycheese</a>
-- <a href="https://github.com/mishakorzik/Mask-Phish.Termux">Mask-Phish</a>
+- <a href="https://github.com/ZubiHunter/Mask-Phish.Termux">Mask-Phish</a>
 - <a href="https://github.com/thewhiteh4t/seeker.git">Seeker</a>
 - <a href="https://github.com/DeepSociety/AIOPhish">AIOPhish</a>
 - <a href="https://github.com/Viralmaniar/I-See-You.git">I See You</a>
@@ -109,11 +109,11 @@
 
 ## Other Tools
 - <a href="https://github.com/deadbits/Intersect-2.5">Intersect 2.5</a>
-- <a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy</a>
+- <a href="https://github.com/ZubiHunter/Free-Proxy">Free-Proxy</a>
 
 ## Supporters
-[![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
-[![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
+[![Stargazers repo roster for @ZubiHunter/AllHuntingTools](https://reporoster.com/stars/ZubiHunter/AllHuntingTools)](https://github.com/ZubiHunter/AllHuntingTools/stargazers)
+[![Forkers repo roster for @ZubiHunter/AllHuntingTools](https://reporoster.com/forks/ZubiHunter/AllHuntingTools)](https://github.com/ZubiHunter/AllHuntingTools/members)
 
 
 
