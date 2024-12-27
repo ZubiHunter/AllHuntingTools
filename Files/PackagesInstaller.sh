@@ -13,8 +13,8 @@ echo -e "$yellow |   |   |  \___  \  |  |  / __ \|  |_|  |_\  ___/|  | \/ "
 echo -e "$yellow |___|___|  /____  > |__| (____  /____/____/\___  >__|    "
 echo -e "$yellow          \/     \/            \/               \/        "
 echo ""
-echo -e "$orange [>] $yellow Tool Name: AllHackingTools "
-echo -e "$orange [>] $yellow Developer: Misha Korzhik " 
+echo -e "$orange [>] $yellow Tool Name: AllHuntingTools "
+echo -e "$orange [>] $yellow Developer: Zubi Hunter " 
 
 which git > /dev/null 2>&1
 if [ "$?" -eq "0" ]; then
@@ -222,7 +222,7 @@ green='\033[92m'
 
 cd 
 cd
-cd AllHackingTools
+cd AllHuntingTools
 cd Castom
 cp ngrok /data/data/com.termux/files/home/
 cd
