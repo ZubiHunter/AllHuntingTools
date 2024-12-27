@@ -8,20 +8,20 @@ cd
 cd 
 cd ..
 cd usr
-mkdir AllHackingTools
+mkdir AllHuntingTools
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
 cd src
 cp ngrok.sh /data/data/com.termux/files/usr
 cd
 cd 
-cd AllHackingTools
+cd AllHuntingTools
 cd Files
 bash PackagesInstaller.sh
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
 bash Files/CamHackFiles.sh
 bash Files/AndroidFiles.sh
 bash Files/SocialFiles.sh
@@ -49,7 +49,7 @@ bash Files/TermuxSFiles.sh
 bash Files/OtherFiles.sh
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
 cd Files
 bash TypeTermuxAndLinux.sh
 cd
@@ -62,30 +62,30 @@ sleep 0.2
 cd
 cd 
 clear
-python3 AllHackingTools/.check/ServerStatusCheck.py
+python3 AllHuntingTools/.check/ServerStatusCheck.py
 cd
 cd
-bash AllHackingTools/.check/ServerConfig.sh
+bash AllHuntingTools/.check/ServerConfig.sh
 clear
 cd
 cd 
-cd && cd AllHackingTools && python2 src/TerminalBanner.py
+cd && cd AllHuntingTools && python2 src/TerminalBanner.py
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
 cd Tool
 chmod +x folder
 chmod +x os
-mv folder /data/data/com.termux/files/home/AllHackingTools
-mv os /data/data/com.termux/files/home/AllHackingTools
+mv folder /data/data/com.termux/files/home/AllHuntingTools
+mv os /data/data/com.termux/files/home/AllHuntingTools
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
 cd Files
 python get.py
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
 cd .logs 
 pip freeze > requirements.txt
 cd
@@ -130,8 +130,8 @@ Developer : mishakorzhik
 created on: 23 05 2021
 code      : python, bash, php
 '|lolcat -p 1.0
-echo -e $b"[^_^]"$w" AllHackingTools donate: "$g"https://www.buymeacoffee.com/misakorzik"$w
-echo -e $b"[^_^]"$w" SuccesFull Installed: "$g"AllHackingTools"$w
+echo -e $b"[^_^]"$w" AllHuntingTools donate: "$g"https://www.buymeacoffee.com/misakorzik"$w
+echo -e $b"[^_^]"$w" SuccesFull Installed: "$g"AllHuntingTools"$w
 echo -e $b"[^_^]"$w" Run Command to Start Tool: "$g"msdc & msdconsole"$w
 echo -e $b"[^_^]"$w" Command to Update Tool: "$g"msdconsoleUPD"$w
 cd
