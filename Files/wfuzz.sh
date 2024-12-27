@@ -5,7 +5,7 @@ w="\033[0m"
 
 clear
 cd
-cd AllHackingTools
+cd AllHuntingTools
 clear
 wfuzz
 echo "Please enter all your required settings to run the program, for example: -h https://www.example.com"
@@ -15,4 +15,4 @@ sleep 0.1
 wfuzz $opt
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
