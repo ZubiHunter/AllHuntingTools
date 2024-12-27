@@ -1,12 +1,12 @@
 ```
 Contributors:
-Misha Korzhik
+Zubi Hunter
 
 Programist: 
-Misha Korzhik
+Zubi Hunter
 
 designer:
-Misha Korzhik
+Zubi Hunter
 
 
 
