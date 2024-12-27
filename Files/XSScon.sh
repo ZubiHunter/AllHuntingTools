@@ -5,7 +5,7 @@ w="\033[0m"
 
 clear
 cd
-cd AllHackingTools
+cd AllHuntingTools
 bash Logo.sh
 cd XSSCon
 echo ""
@@ -17,4 +17,4 @@ sleep 0.6
 python3 xsscon.py -u $siteURL1 
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
