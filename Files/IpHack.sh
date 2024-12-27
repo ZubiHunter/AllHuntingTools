@@ -5,10 +5,10 @@ w="\033[0m"
 
 clear
 cd
-cd AllHackingTools
+cd AllHuntingTools
 bash Logo.sh
 cd Files
 python IpHack.py
 cd
 cd
-cd AllHackingTools
+cd AllHuntingTools
