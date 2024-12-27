@@ -5,7 +5,7 @@ w="\033[0m"
 
 clear
 cd
-cd AllHackingTools
+cd AllHuntingTools
 bash src/RunLogo.sh
 cd takeover
 echo ""
@@ -16,4 +16,4 @@ echo -e $b">>>"$w" Please wait a moment: "$g"TakeOver"$w
 sleep 0.6
 python3 takeover.py -d $siteURL -v
 cd
-cd AllHackingTools
+cd AllHuntingTools
